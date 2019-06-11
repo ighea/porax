@@ -1,7 +1,7 @@
 # porax
 PORA - A game writtin in 2010 using C# and MS XNA
 
-PORA is a action puzzle platform game (like Dig Dug) developed in team of four for Microsoft's XNA game competition.
+PORA is an action puzzle platform game (like Dig Dug) developed by a team of four for Microsoft's XNA game competition.
 
 Playable packed binaries for Windows can be found under `releases/` path.
 

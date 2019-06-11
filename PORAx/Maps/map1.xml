@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PORAx.MapData">
+    <background>Backgrounds\africa</background>
+    <backgroundOffset>230</backgroundOffset>
+    <music>Sounds\backgroundmusic</music>
+    <endDelay>0.5</endDelay>
+    <dialog>Dialogs\map1dialog</dialog>
+    <tileInfo>
+      <Item>
+        <symbol>@</symbol>
+        <name>Placeables\player</name>
+      </Item>
+      <Item>
+        <symbol>S</symbol>
+        <name>Placeables\sand</name>
+      </Item>
+      <Item>
+        <symbol>R</symbol>
+        <name>Placeables\rock</name>
+      </Item>
+      <Item>
+        <symbol>B</symbol>
+        <name>Placeables\boulder</name>
+      </Item>
+      <Item>
+        <symbol>U</symbol>
+        <name>Placeables\rubble</name>
+      </Item>
+      <Item>
+        <symbol>G</symbol>
+        <name>Placeables\gas</name>
+      </Item>
+      <Item>
+        <symbol>E</symbol>
+        <name>Placeables\end</name>
+      </Item>
+    </tileInfo>
+    <Tiles>
+      <Item>     @       </Item>
+      <Item>SSSSSSSSSSSSS</Item>
+      <Item>SSRRRGRRRRSRR</Item>
+      <Item>SUSSSRRRRSSRR</Item>
+      <Item>SSGSSSSSBGSBB</Item>
+      <Item>SRSSRSSBSSSSS</Item>
+      <Item>SSSBSSSSSSRRR</Item>
+      <Item>SBRSRRRRRSSSS</Item>
+      <Item>RSSSBRRSSSSSS</Item>
+      <Item>RRGSSSSSSGSSS</Item>
+      <Item>SRSSSSSBSSSSB</Item>
+      <Item>SRRRRRSSRRRSB</Item>
+      <Item>SSSSSSGSSSSGS</Item>
+      <Item>SSSSSSSSSSSSS</Item>
+      <Item>EEEEEEEEEEEEE</Item>
+    </Tiles>
+  </Asset>
+</XnaContent>

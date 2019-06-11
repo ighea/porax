@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PORAx.PlaceableData">
+    <sprites>
+      <Item>Pora\body1</Item>
+      <Item>Pora\body2</Item>
+    </sprites>
+    <gravity>100</gravity>
+    <acceleration>120</acceleration>
+    <animSpeed>0.1</animSpeed>
+    <layerDepth>0.5</layerDepth>
+    <moveable>true</moveable>
+    <drillable>false</drillable>
+    <incollidable>false</incollidable>
+    <player>true</player>
+    <destroyable>true</destroyable>
+    <endCondition>false</endCondition>
+    <health>2</health>
+    <damage>1</damage>
+    <dialog>null</dialog>
+    <destroyedSound>null</destroyedSound>
+  </Asset>
+</XnaContent>

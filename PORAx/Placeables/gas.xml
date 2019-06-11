@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PORAx.PlaceableData">
+    <sprites>
+      <Item>gas</Item>
+    </sprites>
+    <gravity>-200</gravity>
+    <acceleration>0</acceleration>
+    <animSpeed>0.1</animSpeed>
+    <layerDepth>0.5</layerDepth>
+    <moveable>true</moveable>
+    <drillable>false</drillable>
+    <incollidable>true</incollidable>
+    <player>false</player>
+    <destroyable>false</destroyable>
+    <endCondition>false</endCondition>
+    <health>1</health>
+    <damage>1</damage>
+    <dialog>Dialogs\gasseshurt</dialog>
+    <destroyedSound>null</destroyedSound>
+  </Asset>
+</XnaContent>

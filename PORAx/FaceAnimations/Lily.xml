@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PORAx.FaceData">
+    <name>Lily</name>
+    <frameChangeSpeed>0.2</frameChangeSpeed>
+    <textures>
+      <Item>Faces\Lily\1</Item>
+      <Item>Faces\Lily\2</Item>
+      <Item>Faces\Lily\3</Item>
+      <Item>Faces\Lily\4</Item>
+      <Item>Faces\Lily\5</Item>
+      <Item>Faces\Lily\6</Item>
+      <Item>Faces\Lily\7</Item>
+      <Item>Faces\Lily\8</Item>
+    </textures>
+  </Asset>
+</XnaContent>

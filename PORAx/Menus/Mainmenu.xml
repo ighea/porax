@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PORAx.MenuData">
+    <backgroundMusic>Sounds\menumusic</backgroundMusic>
+    <items>
+      <Item>
+        <gameState>Start</gameState>
+        <sprites>
+          <Item>Mainmenu\start3</Item>
+          <Item>Mainmenu\start2</Item>
+          <Item>Mainmenu\main</Item>
+        </sprites>
+        <changeRate>0.1</changeRate>
+      </Item>
+      <Item>
+        <gameState>Credits</gameState>
+        <sprites>
+          <Item>Mainmenu\credits3</Item>
+          <Item>Mainmenu\credits2</Item>
+          <Item>Mainmenu\main</Item>
+        </sprites>
+        <changeRate>0.1</changeRate>
+      </Item>
+      <Item>
+        <gameState>Info</gameState>
+        <sprites>
+          <Item>Mainmenu\info3</Item>
+          <Item>Mainmenu\info2</Item>
+          <Item>Mainmenu\main</Item>
+        </sprites>
+        <changeRate>0.1</changeRate>
+      </Item>
+      <Item>
+        <gameState>Quit</gameState>
+        <sprites>
+          <Item>Mainmenu\quit3</Item>
+          <Item>Mainmenu\quit2</Item>
+          <Item>Mainmenu\main</Item>
+        </sprites>
+        <changeRate>0.1</changeRate>
+      </Item>
+    </items>
+  </Asset>
+</XnaContent>

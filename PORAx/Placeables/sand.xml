@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PORAx.PlaceableData">
+    <sprites>
+      <Item>sand</Item>
+    </sprites>
+    <gravity>0</gravity>
+    <acceleration>0</acceleration>
+    <animSpeed>0.1</animSpeed>
+    <layerDepth>0.5</layerDepth>
+    <moveable>false</moveable>
+    <drillable>true</drillable>
+    <incollidable>false</incollidable>
+    <player>false</player>
+    <destroyable>true</destroyable>
+    <endCondition>false</endCondition>
+    <health>1</health>
+    <damage>0</damage>
+    <dialog>null</dialog>
+    <destroyedSound>Sounds\destroyedSound</destroyedSound>
+  </Asset>
+</XnaContent>

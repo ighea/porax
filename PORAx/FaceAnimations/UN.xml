@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PORAx.FaceData">
+    <name>UN</name>
+    <frameChangeSpeed>0.2</frameChangeSpeed>
+    <textures>
+      <Item>Faces\UN\1</Item>
+      <Item>Faces\UN\2</Item>
+      <Item>Faces\UN\3</Item>
+      <Item>Faces\UN\4</Item>
+      <Item>Faces\UN\5</Item>
+      <Item>Faces\UN\6</Item>
+      <Item>Faces\UN\7</Item>
+      <Item>Faces\UN\8</Item>
+      <Item>Faces\UN\9</Item>
+      <Item>Faces\UN\10</Item>
+    </textures>
+  </Asset>
+</XnaContent>

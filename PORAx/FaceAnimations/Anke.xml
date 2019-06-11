@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PORAx.FaceData">
+    <name>Anke</name>
+    <frameChangeSpeed>0.2</frameChangeSpeed>
+    <textures>
+      <Item>Faces\Anke\1</Item>
+      <Item>Faces\Anke\2</Item>
+      <Item>Faces\Anke\3</Item>
+      <Item>Faces\Anke\4</Item>
+      <Item>Faces\Anke\5</Item>
+      <Item>Faces\Anke\6</Item>
+      <Item>Faces\Anke\7</Item>
+      <Item>Faces\Anke\8</Item>
+      <Item>Faces\Anke\9</Item>
+      <Item>Faces\Anke\10</Item>
+      <Item>Faces\Anke\11</Item>
+      <Item>Faces\Anke\12</Item>
+    </textures>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PORAx.MapperData">
+    <stageEndDelay>4</stageEndDelay>
+    <stages>
+      <Item>
+        <xmlDescriptor>Videos\Trailer</xmlDescriptor>
+        <isMap>false</isMap>
+      </Item>
+      <Item>
+        <xmlDescriptor>Videos\Beginning</xmlDescriptor>
+        <isMap>false</isMap>
+      </Item>
+      <Item>
+        <xmlDescriptor>Maps\map1</xmlDescriptor>
+        <isMap>true</isMap>
+      </Item>
+      <Item>
+        <xmlDescriptor>Videos\Beginning</xmlDescriptor>
+        <isMap>false</isMap>
+      </Item>
+      <Item>
+        <xmlDescriptor>Maps\map1</xmlDescriptor>
+        <isMap>true</isMap>
+      </Item>
+    </stages>
+  </Asset>
+</XnaContent>

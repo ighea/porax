@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PORAx.FaceData">
+    <name>Hans</name>
+    <frameChangeSpeed>0.2</frameChangeSpeed>
+    <textures>
+      <Item>Faces\Hans\1</Item>
+      <Item>Faces\Hans\2</Item>
+      <Item>Faces\Hans\3</Item>
+      <Item>Faces\Hans\4</Item>
+      <Item>Faces\Hans\5</Item>
+      <Item>Faces\Hans\6</Item>
+      <Item>Faces\Hans\7</Item>
+      <Item>Faces\Hans\8</Item>
+    </textures>
+  </Asset>
+</XnaContent>

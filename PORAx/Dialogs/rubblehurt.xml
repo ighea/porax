@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PORAx.DialogData">
+    <background>dialogBackground</background>
+    <dialogs>
+      <Item>
+        <faceAnimation>FaceAnimations\Hans</faceAnimation>
+        <text>Hey, the rubble cannot be moved or drilled! It still hurts if it falls on you. Rest of this is just nonsense with flattering comments to test the line splitter method I just created!</text>
+        <textDisplayTime>6</textDisplayTime>
+      </Item>
+      <Item>
+        <faceAnimation>FaceAnimations\Dan</faceAnimation>
+        <text>Say that sooner next time, please!</text>
+        <textDisplayTime>3</textDisplayTime>
+      </Item>
+    </dialogs>
+  </Asset>
+</XnaContent>

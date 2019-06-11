@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PORAx.FaceData">
+    <name>Evil</name>
+    <frameChangeSpeed>0.2</frameChangeSpeed>
+    <textures>
+      <Item>Faces\Evil\1</Item>
+      <Item>Faces\Evil\2</Item>
+      <Item>Faces\Evil\3</Item>
+      <Item>Faces\Evil\4</Item>
+      <Item>Faces\Evil\5</Item>
+      <Item>Faces\Evil\6</Item>
+      <Item>Faces\Evil\7</Item>
+      <Item>Faces\Evil\8</Item>
+    </textures>
+  </Asset>
+</XnaContent>

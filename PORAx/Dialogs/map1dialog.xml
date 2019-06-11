@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PORAx.DialogData">
+    <background>dialogBackground</background>
+    <dialogs>
+      <Item>
+        <faceAnimation>FaceAnimations\Anke</faceAnimation>
+        <text>Okey, Dan. Let's get to the bottom of this!</text>
+        <textDisplayTime>4</textDisplayTime>
+      </Item>
+      <Item>
+        <faceAnimation>FaceAnimations\Dan</faceAnimation>
+        <text>Yeah, I'll get right down to business!</text>
+        <textDisplayTime>5</textDisplayTime>
+      </Item>
+      <Item>
+        <faceAnimation>FaceAnimations\Evil</faceAnimation>
+        <text>Hoho! Your demise is inevitable!</text>
+        <textDisplayTime>4</textDisplayTime>
+      </Item>
+    </dialogs>
+  </Asset>
+</XnaContent>
